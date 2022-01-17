@@ -58,6 +58,7 @@ fieldset {
 .hr3 {
     width: 87%;
     border-bottom: 2px solid black;
+    margin-bottom: 7px;
 
 }
 legend {
